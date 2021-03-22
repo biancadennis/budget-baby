@@ -4,9 +4,9 @@ export default {
   prefixes: [Linking.makeUrl('/')],
   config: {
     Root: {
-      path: 'root',
+      path: '',
       screens: {
-        Home: 'home',
+        Expenditures: 'expenditures',
         Links: 'links',
       },
     },
